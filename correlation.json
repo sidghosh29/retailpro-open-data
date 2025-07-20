@@ -1,1 +1,4 @@
-{ "pair": "Footfall-Net_Sales", "correlation": 0.97 }
+{
+  "pair": "Footfall-Net_Sales",
+  "correlation": 0.893
+}
